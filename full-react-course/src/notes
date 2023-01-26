@@ -1,0 +1,7 @@
+// const Head = () =>
+<h1>Headline</h1>
+// const Para = () =>
+<p>Sample Paragraph</p>
+
+// const Greeting = () => { // return React.createElement('h1', {}, 'Test
+component'); // };
